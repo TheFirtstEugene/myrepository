@@ -23,7 +23,9 @@ public class Stack_1 implements SharedConstans{
             case NEVER:
                 System.out.println("Никогда");
                 break;
+
         }
+        System.out.println("Вы успешно выполнили эту часть задания");
     }
 
     public static void main(String[] args) {
