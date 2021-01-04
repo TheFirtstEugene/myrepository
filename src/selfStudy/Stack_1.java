@@ -6,7 +6,7 @@ public class Stack_1 implements SharedConstans{
     static void answer(int result){
         switch (result){
             case NO:
-                System.out.println("НЕТ");
+                System.out.println("Нет");
                 break;
             case YES:
                 System.out.println("Да");
