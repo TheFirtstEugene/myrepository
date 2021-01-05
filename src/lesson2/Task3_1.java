@@ -3,14 +3,13 @@ import java.util.Scanner;
 public class Task3_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int x1;
-        int x2;
+        int x1,x2, a, b, c;
         System.out.println("Введите поочерёдно переменные а, b и c");
-        int a = sc.nextInt();
+        a = sc.nextInt();
         System.out.println("a = " + a);
-        int b = sc.nextInt();
+        b = sc.nextInt();
         System.out.println("b = " + b);
-        int c = sc.nextInt();
+        c = sc.nextInt();
         System.out.println("b = " + c);
         int d = (b*b)-(4*a*c);
         if(d>0){
