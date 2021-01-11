@@ -1,5 +1,4 @@
-# myrepository
-Проверка
+Homeworks and test selfstudy
 
 
 
