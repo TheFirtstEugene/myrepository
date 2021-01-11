@@ -1,4 +1,4 @@
-Homeworks and test selfstudy
+Homeworks and tests selfstudy
 
 
 
